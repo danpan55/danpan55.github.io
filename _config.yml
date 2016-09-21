@@ -112,6 +112,12 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
+    date: "December 2012"
+    description: "Started exploring the tech world and started my first online business, RunGazella.com"
+  - image: "/img/timeline/spidertocat.png"
+    date: "January 2009 - December 2012"
+    description: "Moved to London, UK & worked in banking on funding projects related to the GFC"
+  - image: "/img/timeline/spidertocat.png"
     date: "January 2009 - September 2009"
     description: "Studied Spanish and Explored South America"
   - image: "/img/timeline/baracktocat.jpg"
