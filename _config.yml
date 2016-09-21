@@ -112,11 +112,14 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "January 2009 - September 2009"
+    description: "Studied Spanish and Explored South America"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "February 2006 to January 2009"
+    description: "Worked at Macquarie Bank"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "December 2005"
+    description: "Graduated Bachelor of Accounting"
 
 # First image of the Timeline
 
