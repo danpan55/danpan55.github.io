@@ -111,21 +111,21 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/arrows.jpg"
+    date: "June 2015 - June 2016"
+    description: "Moved into the eCommerce world to learn how to grow an online business"
+  - image: "/img/timeline/fitness.jpg"
+    date: "November 2013 - June 2015"
+    description: "Fulfilled a life long dream to study fitness & personal training. Started my own fitness business."
+  - image: "/img/timeline/gazella.jpg"
     date: "December 2012"
     description: "Started exploring the tech world and started my first online business, RunGazella.com"
-  - image: "/img/timeline/spidertocat.png"
-    date: "January 2009 - December 2012"
-    description: "Moved to London, UK & worked in banking on funding projects related to the GFC"
-  - image: "/img/timeline/spidertocat.png"
-    date: "January 2009 - September 2009"
-    description: "Studied Spanish and Explored South America"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "February 2006 to January 2009"
-    description: "Worked at Macquarie Bank"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/banking.jpg"
+    date: "Febuary 2006 - December 2012"
+    description: "Worked in banking in Sydney and London, on commodities and funding projects related to the GFC"
+  - image: "/img/timeline/graduate.png"
     date: "December 2005"
-    description: "Graduated Bachelor of Accounting"
+    description: "Graduated Bachelor of Accounting from UTS"
 
 # First image of the Timeline
 
