@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Hey! Thanks for stopping by..."
   - text: "What are you doing here?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/dani_profile.jpg"
 
 ##############################
 # Color the browser elements #
@@ -113,19 +113,19 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/arrows.jpg"
     date: "June 2015 - June 2016"
-    description: "Moved into the eCommerce world to learn how to grow an online business"
+    description: "Moved into the eCommerce world to learn how to grow an online business."
   - image: "/img/timeline/fitness.jpg"
     date: "November 2013 - June 2015"
     description: "Fulfilled a life long dream to study fitness & personal training. Started my own fitness business."
   - image: "/img/timeline/gazella.jpg"
     date: "December 2012"
-    description: "Started exploring the tech world and started my first online business, RunGazella.com"
+    description: "Started exploring the tech world and started my first online business, RunGazella.com."
   - image: "/img/timeline/banking.jpg"
     date: "Febuary 2006 - December 2012"
-    description: "Worked in banking in Sydney and London, on commodities and funding projects related to the GFC"
+    description: "Worked in banking in Sydney and London, on commodities and funding projects related to the GFC."
   - image: "/img/timeline/graduate.png"
     date: "December 2005"
-    description: "Graduated from the Bachelor of Accounting Co-op Scholarship Program from UTS"
+    description: "Graduated from the Bachelor of Accounting Co-op Scholarship Program from UTS."
 
 # First image of the Timeline
 
@@ -135,7 +135,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "dani.wood321@gmail.com"
 
 ################
 # Author Blurb #
@@ -145,7 +145,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Dani Wood is an awesome person. She lives in Denver, Colorado where she likes spending time in the mountains and drinking coffee."
 author_blurb_image: "/img/author.png"
 
 ##################
