@@ -31,8 +31,8 @@ force-https: False
 lang: "en"
 author: "Dani Wood"
 title: "{ Dani Wood }"
-description: "Blog and website of Dani Wood"
-keywords: "dani, wood, Australian"
+description: "Blog and Website of Dani Wood"
+keywords: "dani, danielle, wood, Australian"
 favicon: "/img/favicon.ico"
 
 ################
@@ -97,10 +97,10 @@ twitter-share: True
 linkedin-share: True
 reddit-share: True
 google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "danpan55"
 
@@ -179,6 +179,7 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
+  Skills: 'skills'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
