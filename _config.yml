@@ -30,7 +30,7 @@ force-https: False
 
 lang: "en"
 author: "Dani Wood"
-title: "{ Dani Wood }"
+title: "Dani Wood"
 description: "Blog and Website of Dani Wood"
 keywords: "dani, danielle, wood, Australian"
 favicon: "/img/favicon.ico"
@@ -160,13 +160,13 @@ social:
   - title: "github"
     url: "https://github.com/danpan55"
   - title: "instagram"
-    url: "https://www.instagram.com/daniellagazella/"
+    url: "https://www.instagram.com/daniofthewoods/"
 
 ############
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+404-img: "/img/dani404.png"
 
 
 ################################################################################
